@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there! 👋 Welcome to my GitHub Profile
+I’m passionate about creating impactful digital experiences, exploring new technologies, and solving real-world problems through innovative solutions. Here's what I work on:
 
-<!--
-**sudfr3ll/sudfr3ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Current Projects
 
-Here are some ideas to get you started:
+Dhama App: An Android app dedicated to Hindu pilgrimage places, providing detailed guides, history, and directions for travelers. Built with Jetpack Compose for a modern and intuitive user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dhama YouTube Channel: Video content exploring pilgrimage sites, festivals, and spiritual journeys.
+
+Dhama Website: A comprehensive guide for devotees, featuring blogs, maps, and service opportunities.
+
+🔧 Tech Stack
+
+Frontend: React.js, Next.js, Jetpack Compose
+
+Backend: Firebase (Firestore, Cloud Functions)
+
+Tools & Platforms: Visual Studio Code, GitHub Actions, Google Cloud Platform, Android Studio
+
+💡 Interests
+
+Web and App Development
+Creating engaging content on YouTube
+Pilgrimage tourism and spiritual tech solutions
+
+📈 Achievements
+
+Successfully launched the Dhama Android App using Jetpack Compose
+Growing a vibrant community on the Dhama YouTube Channel
+Featured blogs and services reaching thousands of users
+🌱 Currently Learning
+
+Advanced Firebase features for app scalability
+Animation techniques for enhancing UX
+
+📫 Connect with Me
+Website: https://www.dhama.co.in
+Email: sudheer.srivastava@gmail.com
